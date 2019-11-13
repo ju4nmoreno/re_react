@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.ninja-list {
+  display: flex;
+}
+.ninja{
+  margin: 0px 10px;
+  padding: 10px;
+}
